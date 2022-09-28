@@ -2,8 +2,7 @@
 
 You can reach me at tarek.almanabri94@gmail.com
 
-- 🚧  I’m currently working on a Nuxt 3 project
-- 🔬  I’m currently learning React Native, TypeScript and automated testing
+- App developer at FM Group
 
 [![Tarek Almanabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekalmanabri&hide_rank=1&layout=compact)](https://github.com/tarekalmanabri/github-readme-stats)
 
